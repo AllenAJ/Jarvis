@@ -273,11 +273,3 @@ woah50.text =ctime1;
 		}
 	}
 }
-//https://www.googleapis.com/customsearch/v1?key=AIzaSyCPj1tb1335hHuIkG9WH4vLcDgxLy0VKCI&cx=007460068601593996914:0xdisgqjqkw&q=image
-//https://api.microsofttranslator.com/v2/http.svc/Speak?language=fr&format=audio/mp3&options=MinSize&appid=TDkU8Dj8OSHvx4BH7FtixcF4QiHfLLm8N7VtaTEyPzkY*&text=TTT
-//https://api.microsofttranslator.com/v2/http.svc/Speak?language=fr&format=audio/mp3&options=MinSize&appid=TfIzpx-V79560k4hZb-_JU4n6wTWRISqSI0cMZf2EosA*&text=serew
-//http://api.microsofttranslator.com/v2/http.svc/Speak?language=en&format=audio/mp3&options=MinSize&appid=T5Ln4CZj44lCGRDhO4rx-gHkodnpHIPR-pzRbCMxwMj8*&text=Gate
-/////////////////////////////////////////////////////////////http://tradukka.com/translate/en/fr
-//http://api.microsofttranslator.com/v2/http.svc/Speak?language=fr&format=audio/mp3&options=MinSize&appid=T_wqA4vl-MPRDZJw0tosaogLG7yNe1_hCgGfdAbv5TAs*&text=sewrw
-//EAACEdEose0cBACkgfXw9C2Kx9tyr8X5SQADf8fhTAoMw54IHaYAjn84W9xFMZBKGZC68eWkeDYdRIsBdZAE16zSZBf2GPTnpTEjHP11YYIVotd58NDRCBlhDbgv4O84IOMto2ZBEX3M32AD6xCYBVyGrRUHGSKZBoPiSTWN5HqcQZDZD
-//https://api.microsofttranslator.com/v2/http.svc/Speak?language=fr&format=audio/mp3&options=MinSize&appid=TpqdqqHSB9AVLijwYH6AiuPwUozarO9Qk0tO3fmeO-2M*&text=ferere
